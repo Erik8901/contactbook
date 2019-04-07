@@ -1,6 +1,6 @@
 Contactbook
 
-An online contactbook we made for a schoolproject with VueJs, where the user can add/remove and modify their contactlist. 
+An online contactbook we made for a schoolproject with VueJs, where the user can add/remove and modify their contactlist. (the css is not perfect)
 https://erik8901.github.io/contactbook/
 
 
